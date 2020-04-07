@@ -5,7 +5,7 @@ version: 1.6.2
 author: maskoding
 author_email: abdiusu@gmail.com
 url: https://maskodingku.github.io
-baseurl: /decode-maskoding
+baseurl: https://maskodingku.github.io/decode-maskoding
 repository: maskodingku/decode-maskoding
 license: MIT
 
