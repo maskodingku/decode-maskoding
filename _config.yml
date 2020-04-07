@@ -1,17 +1,17 @@
-name: de4js
-title: de4js
+name: Makoding Decode
+title: Maskoding Decode
 description: JavaScript Deobfuscator and Unpacker
 version: 1.6.2
-author: Zzbaivong
-author_email: Zzbaivong@gmail.com
-url: https://lelinhtinh.github.io
-baseurl: /de4js
-repository: lelinhtinh/de4js
+author: maskoding
+author_email: abdiusu@gmail.com
+url: https://maskodingku.github.io
+baseurl: /decode-maskoding
+repository: maskodingku/decode-maskoding
 license: MIT
 
 theme: jekyll-theme-hacker
 show_downloads: false
-google_analytics: UA-106940288-1
+google_analytics: 
 sass:
   style: compressed
 
