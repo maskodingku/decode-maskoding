@@ -4,8 +4,8 @@ description: JavaScript Deobfuscator and Unpacker
 version: 1.6.2
 author: maskoding
 author_email: abdiusu@gmail.com
-url: https://maskodingku.github.io
-baseurl: /decode-maskoding
+url: https://deobfuscator.maskoding.com
+baseurl: 
 repository: maskodingku/decode-maskoding
 license: MIT
 
